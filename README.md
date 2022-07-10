@@ -1,6 +1,6 @@
 # UC9_Cadastro_PF_PJ
 
-#Sistema de Cadastro de Clientes – ClientLab
+#**Sistema de Cadastro de Clientes – ClientLab**
 
 Desenvolvimento do Sistema de Cadastro de Clientes customizado da empresa ClientLab. 
 
@@ -36,7 +36,7 @@ Editor
 -	Processador de 1,8 GHz ou mais rápido.
 -	2 GB de RAM; 8 GB de RAM são recomendados (mínimo de 2,5 GB, se executado em uma máquina virtual
 
-    •	Execução da aplicação
+    •   Execução da aplicação
 
 - Clone o repositório
   >git clone https://github.com/TatianeLima/UC9_Cadastro_PF_PJ.git
